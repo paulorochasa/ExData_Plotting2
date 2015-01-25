@@ -1,5 +1,4 @@
-# ExData_Plotting2
-Plotting Assignment 2 for Exploratory Data Analysis 
+# Plotting Assignment 2 for Exploratory Data Analysis
 
 ###Main Goal
 The overall goal of this assignment is to explore the National Emissions Inventory database and see what it say about fine particulate matter pollution in the United states over the 10-year period 1999–2008. We may use any R package we want to support our analysis.
